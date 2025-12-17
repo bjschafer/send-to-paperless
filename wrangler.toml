@@ -8,4 +8,4 @@ enabled = true
 head_sampling_rate = 1
 
 [vars]
-PAPERLESS_API_BASE = "https://paperless.cmdcentral.xyz/api"
+IGNORED_MIME_TYPES = "application/pgp-keys,application/pgp-signature"
